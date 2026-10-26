@@ -1,5 +1,5 @@
-# LeetCode
+# LeetCode 解題紀錄
 
-This repository contains my solutions to a diverse array of coding challenges. From tackling intricate algorithms to mastering essential data structures, I’ve dedicated to pushing the boundaries of my capabilities.
+收錄我的 LeetCode 解題程式，以 C++ 為主，依題目主題分類整理。
 
-Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiiondffkjfhjgdcfjklnmadhfk) extension.
+使用 SyncLeet 同步至 GitHub。
